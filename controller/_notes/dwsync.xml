@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="errorController.php" server="C:/Program Files/xampp/htdocs/panamerican/" local="130248759060000000" remote="130248759060000000" Dst="-1" />
+<file name="indexController.php" server="C:/Program Files/xampp/htdocs/panamerican/" local="130250221023480000" remote="130250221020000000" Dst="-1" />
+<file name="logoutController.php" server="C:/Program Files/xampp/htdocs/panamerican/" local="130249544820000000" remote="130249544820000000" Dst="-1" />
+<file name="homeController.php" server="C:/Program Files/xampp/htdocs/panamerican/" local="130248760740000000" remote="130248760740000000" Dst="-1" />
+<file name="librosController.php" server="C:/Program Files/xampp/htdocs/panamerican/" local="130250256087784000" remote="130250256080000000" Dst="-1" />
+<file name="editorialesController.php" server="C:/Program Files/xampp/htdocs/panamerican/" local="130250263835944000" remote="130250263830000000" Dst="-1" />
+<file name="categoriasController.php" server="C:/Program Files/xampp/htdocs/panamerican/" local="130250328469154000" remote="130250328460000000" Dst="-1" />
+<file name="librosNuevoController.php" server="C:/Program Files/xampp/htdocs/panamerican/" local="130250304690000000" remote="130250304690000000" Dst="-1" />
+<file name="addRequerimientoController.php" server="C:/wamp/www/panamerican/" local="130288561563733944" remote="130288561560000000" Dst="-1" />
+<file name="addEditorialesController.php" server="C:/wamp/www/panamerican/" local="130252082154666000" remote="130252082150000000" Dst="-1" />
+<file name="addNotasRemisionController.php" server="C:/wamp/www/panamerican/" local="130288581988702185" remote="130288581980000000" Dst="-1" />
+<file name="verRemisionController.php" server="C:/wamp/www/panamerican/" local="130285171620000000" remote="130285171620000000" Dst="-1" />
+<file name="verRequerimientoController.php" server="C:/wamp/www/panamerican/" local="130285125420000000" remote="130285125420000000" Dst="-1" />
+<file name="notasRequerimientoController.php" server="C:/wamp/www/panamerican/" local="130288594700000000" remote="130288594700000000" Dst="-1" />
+<file name="librosController.php" server="C:/wamp/www/panamerican/" local="130253037200000000" remote="130253037200000000" Dst="-1" />
+<file name="editCategoriasController.php" server="C:/wamp/www/panamerican/" local="130252134414066000" remote="130252134410000000" Dst="-1" />
+<file name="notasRemisionController.php" server="C:/wamp/www/panamerican/" local="130268356300000000" remote="130268356300000000" Dst="-1" />
+<file name="addIngresoController.php" server="C:/wamp/www/panamerican/" local="130717592284317606" remote="130717592280000000" Dst="1" />
+<file name="addAlmacenController.php" server="C:/wamp/www/panamerican/" local="130264755920000000" remote="130264755920000000" Dst="-1" />
+<file name="addLibrosController.php" server="C:/wamp/www/panamerican/" local="130265786313384000" remote="130265786310000000" Dst="-1" />
+<file name="addUsuarioController.php" server="C:/wamp/www/panamerican/" local="130265046160000000" remote="130265046160000000" Dst="-1" />
+<file name="notasDevolucionController.php" server="C:/wamp/www/panamerican/" local="130585385320000000" remote="130585385320000000" Dst="2" />
+<file name="addDevolucionController.php" server="C:/wamp/www/panamerican/" local="130526764100000000" remote="130526764100000000" Dst="2" />
+<file name="verDevolucionController.php" server="C:/wamp/www/panamerican/" local="130269325500000000" remote="130269325500000000" Dst="-1" />
+<file name="yovendedorController.php" server="C:/wamp/www/panamerican/" local="130258047960000000" remote="130258047960000000" Dst="-1" />
+<file name="yonotasRemisionController.php" server="C:/wamp/www/panamerican/" local="130290350210000000" remote="130290350210000000" Dst="-1" />
+<file name="addTraspasoController.php" server="C:/wamp/www/panamerican/" local="130292034565306579" remote="130292034560000000" Dst="-1" />
+<file name="verTraspasoController.php" server="C:/wamp/www/panamerican/" local="130292027290000000" remote="130292027290000000" Dst="-1" />
+<file name="traspasoVendedoresController.php" server="C:/wamp/www/panamerican/" local="130368378020000000" remote="130368378020000000" Dst="-1" />
+<file name="almacenesController.php" server="C:/wamp/www/panamerican/" local="130265802700000000" remote="130265802700000000" Dst="-1" />
+<file name="yovendedorStockController.php" server="C:/wamp/www/panamerican/" local="130292087850000000" remote="130292087850000000" Dst="-1" />
+<file name="addContratoController.php" server="C:/wamp/www/panamerican/" local="130721047564960854" remote="130721047560000000" Dst="2" />
+<file name="contratosController.php" server="C:/wamp/www/panamerican/" local="130583598840000000" remote="130583598840000000" Dst="2" />
+<file name="editContratoController.php" server="C:/wamp/www/panamerican/" local="130720566227189480" remote="130720566220000000" Dst="2" />
+<file name="addPagoContratosController.php" server="C:/wamp/www/panamerican/" local="130717894960000000" remote="130717894960000000" Dst="1" />
+<file name="regVentaContratoController.php" server="C:/wamp/www/panamerican/" local="130360823120000000" remote="130360823120000000" Dst="-1" />
+<file name="editContratoPostController.php" server="C:/wamp/www/panamericanSantaCruz/" local="130583741340000000" remote="130583741340000000" Dst="-1" />
+<file name="addNotasRemisionController.php" server="C:/xampp/htdocs/panamerican/" local="130668130760000000" remote="130668130760000000" Dst="1" />
+<file name="addEgresoController.php" server="C:/xampp/htdocs/panamerican/" local="130607833740000000" remote="130607833740000000" Dst="1" />
+<file name="verResumenCargosController.php" server="C:/xampp/htdocs/panamerican/" local="130317616600000000" remote="130317616600000000" Dst="1" />
+<file name="reporteResumenCargosController.php" server="C:/xampp/htdocs/panamerican/" local="130333154940000000" remote="130333154940000000" Dst="1" />
+<file name="verCargoVendedoresController.php" server="C:/xampp/htdocs/panamerican/" local="130660020050000000" remote="130660020050000000" Dst="1" />
+<file name="verReporteRelacionNotasRemisionController.php" server="C:/xampp/htdocs/panamerican/" local="130524955560000000" remote="130524955560000000" Dst="1" />
+<file name="editContratoPostController.php" server="C:/xampp/htdocs/panamerican/" local="130693188460000000" remote="130693188460000000" Dst="1" />
+<file name="registroCatalogoController.php" server="C:/xampp/htdocs/panamerican/" local="130660031480000000" remote="130660031480000000" Dst="1" />
+<file name="registroInventarioController.php" server="C:/xampp/htdocs/panamerican/" local="130582712360000000" remote="130582712360000000" Dst="1" />
+<file name="librosController.php" server="C:/xampp/htdocs/panamerican/" local="130252875200000000" remote="130252875200000000" Dst="1" />
+<file name="addContratoController.php" server="C:/xampp/htdocs/panamerican/" local="130664077200000000" remote="130664077200000000" Dst="1" />
+<file name="anularDiferidoController.php" server="C:/xampp/htdocs/panamerican/" local="130664078320000000" remote="130664078320000000" Dst="1" />
+<file name="addCuentaController.php" server="C:/xampp/htdocs/panamerican/" local="130668342480000000" remote="130668342480000000" Dst="1" />
+<file name="contratosFacturadosController.php" server="C:/xampp/htdocs/panamerican/" local="130564760260000000" remote="130564760260000000" Dst="1" />
+<file name="verTarjetaCobranzaController.php" server="C:/xampp/htdocs/panamerican/" local="130321114520000000" remote="130321114520000000" Dst="1" />
+<file name="addPagoController.php" server="C:/xampp/htdocs/panamerican/" local="130667828577087320" remote="130667828570000000" Dst="1" />
+<file name="cuentasController.php" server="C:/xampp/htdocs/panamerican/" local="130664125027051431" remote="130664125020000000" Dst="1" />
+<file name="cuotasController.php" server="C:/xampp/htdocs/panamerican/" local="130668093680243491" remote="130668093680000000" Dst="1" />
+<file name="verIngresoController.php" server="C:/xampp/htdocs/panamerican/" local="130288094520000000" remote="130288094520000000" Dst="1" />
+<file name="listaPagosController.php" server="C:/xampp/htdocs/panamerican/" local="130668096170000000" remote="130668096170000000" Dst="1" />
+<file name="notasRemisionController.php" server="C:/xampp/htdocs/panamerican/" local="130585378680000000" remote="130585378680000000" Dst="1" />
+<file name="historialpagosController.php" server="C:/xampp/htdocs/panamerican/" local="130569802620000000" remote="130569802620000000" Dst="1" />
+<file name="verCuentaController.php" server="C:/xampp/htdocs/panamerican/" local="130311614960000000" remote="130311614960000000" Dst="1" />
+<file name="editContratoController.php" server="C:/xampp/htdocs/panamerican/" local="130693188640000000" remote="130693188640000000" Dst="1" />
+<file name="reportePagosCuotaInicialController.php" server="C:/xampp/htdocs/panamerican/" local="130744604150000000" remote="130744604150000000" Dst="2" />
+<file name="addIngresoVentaController.php" server="C:/xampp/htdocs/panamerican/" local="130319319880000000" remote="130319319880000000" Dst="1" />
+<file name="editContratoEsperaController.php" server="C:/xampp/htdocs/panamerican/" local="130693188220000000" remote="130693188220000000" Dst="1" />
+<file name="almacenesController.php" server="C:/xampp/htdocs/panamerican/" local="130549921260000000" remote="130549921260000000" Dst="1" />
+<file name="addRequerimientoController.php" server="C:/xampp/htdocs/panamerican/" local="130548154080000000" remote="130548154080000000" Dst="1" />
+<file name="contratosAnuladosController.php" server="C:/xampp/htdocs/panamerican/" local="130571497360000000" remote="130571497360000000" Dst="1" />
+<file name="kardexMayorController.php" server="C:/xampp/htdocs/panamerican/" local="130549892780000000" remote="130549892780000000" Dst="1" />
+<file name="anularCuentaController.php" server="C:/xampp/htdocs/panamerican/" local="130697956460000000" remote="130697956460000000" Dst="1" />
+<file name="devolucionObrasAdminController.php" server="C:/xampp/htdocs/panamerican/" local="130541993880000000" remote="130541993880000000" Dst="1" />
+<file name="notasDevolucionController.php" server="C:/xampp/htdocs/panamerican/" local="130585385320000000" remote="130585385320000000" Dst="1" />
+<file name="ventasController.php" server="C:/xampp/htdocs/panamerican/" local="130355529080000000" remote="130355529080000000" Dst="1" />
+<file name="produccionDiariaVentasController.php" server="C:/xampp/htdocs/panamerican/" local="130519744320000000" remote="130519744320000000" Dst="1" />
+<file name="produccionOrganizacionController.php" server="C:/xampp/htdocs/panamerican/" local="130530672980000000" remote="130530672980000000" Dst="1" />
+<file name="comportamientoVentasController.php" server="C:/xampp/htdocs/panamerican/" local="130530631140000000" remote="130530631140000000" Dst="1" />
+<file name="relacionObrasVendidasController.php" server="C:/xampp/htdocs/panamerican/" local="130357390440000000" remote="130357390440000000" Dst="1" />
+<file name="produccionMensualVentasController.php" server="C:/xampp/htdocs/panamerican/" local="130519748940000000" remote="130519748940000000" Dst="1" />
+<file name="ventasController.php" server="C:/wamp/www/panamerican/" local="130355529080000000" remote="130355529080000000" Dst="1" />
+<file name="relacionObrasVendidasController.php" server="C:/wamp/www/panamerican/" local="130357390440000000" remote="130357390440000000" Dst="1" />
+<file name="cierresController.php" server="C:/wamp/www/panamerican/" local="130681440240000000" remote="130681440240000000" Dst="1" />
+<file name="devolucionObrasAdminController.php" server="C:/wamp/www/panamerican/" local="130698474380000000" remote="130698474380000000" Dst="1" />
+<file name="addIngresoVentaController.php" server="C:/wamp/www/panamerican/" local="130716680860000000" remote="130716680860000000" Dst="1" />
+<file name="devolucionObrasController.php" server="C:/wamp/www/panamerican/" local="130308045500000000" remote="130308045500000000" Dst="1" />
+<file name="refinanciamientoController.php" server="C:/wamp/www/panamerican/" local="130716388070000000" remote="130716388070000000" Dst="1" />
+<file name="cuotasController.php" server="C:/wamp/www/panamerican/" local="130719585904705722" remote="130719585900000000" Dst="1" />
+<file name="cuentasController.php" server="C:/wamp/www/panamerican/" local="130664125040000000" remote="130664125040000000" Dst="1" />
+<file name="anularCuentaController.php" server="C:/wamp/www/panamerican/" local="130716587180000000" remote="130716587180000000" Dst="1" />
+<file name="addCuentaController.php" server="C:/wamp/www/panamerican/" local="130716664680000000" remote="130716664680000000" Dst="1" />
+<file name="cambioObrasController.php" server="C:/wamp/www/panamerican/" local="130717973162803829" remote="130717973160000000" Dst="1" />
+<file name="listarCambioObrasController.php" server="C:/wamp/www/panamerican/" local="130716899030000000" remote="130716899030000000" Dst="1" />
+<file name="cambioObrasAlmacenController.php" server="C:/wamp/www/panamerican/" local="130717507940000000" remote="130717507940000000" Dst="1" />
+<file name="addCambioObrasAlmacenController.php" server="C:/wamp/www/panamerican/" local="130717589260000000" remote="130717589260000000" Dst="1" />
+<file name="addEgresoController.php" server="C:/wamp/www/panamerican/" local="130659995200000000" remote="130659995200000000" Dst="1" />
+<file name="verTarjetaCobranzaController.php" server="C:/wamp/www/panamerican/" local="130718006093445032" remote="130718006090000000" Dst="1" />
+<file name="verCuentaController.php" server="C:/wamp/www/panamerican/" local="130668120420000000" remote="130668120420000000" Dst="1" />
+<file name="verCambioObraController.php" server="C:/wamp/www/panamerican/" local="130718042420000000" remote="130718042420000000" Dst="1" />
+<file name="verTraspasoAlmacenController.php" server="C:/wamp/www/panamerican/" local="130549196500000000" remote="130549196500000000" Dst="1" />
+<file name="traspasoAlmacenController.php" server="C:/wamp/www/panamerican/" local="130538824280000000" remote="130538824280000000" Dst="1" />
+<file name="kardexVendedorController.php" server="C:/wamp/www/panamerican/" local="130538706880000000" remote="130538706880000000" Dst="1" />
+<file name="addPagoController.php" server="C:/wamp/www/panamerican/" local="130668112660000000" remote="130668112660000000" Dst="1" />
+<file name="editContratoPostController.php" server="C:/wamp/www/panamerican/" local="130720300600611523" remote="130720300600000000" Dst="1" />
+<file name="cuotasInicialesController.php" server="C:/wamp/www/panamerican/" local="130720331163618655" remote="130720331160000000" Dst="1" />
+<file name="reporteKardexMayorController.php" server="C:/wamp/www/panamerican/" local="130319428880000000" remote="130319428880000000" Dst="1" />
+<file name="reportecuotasInicialesController.php" server="C:/wamp/www/panamerican/" local="130720349966954786" remote="130720349960000000" Dst="1" />
+<file name="editContratoEsperaController.php" server="C:/wamp/www/panamerican/" local="130720502312640652" remote="130720502310000000" Dst="1" />
+<file name="addDevolucionContratosController.php" server="C:/wamp/www/panamerican/" local="130583597700000000" remote="130583597700000000" Dst="1" />
+<file name="devolucionContratoController.php" server="C:/wamp/www/panamerican/" local="130277831920000000" remote="130277831920000000" Dst="1" />
+<file name="contratosAnuladosController.php" server="C:/wamp/www/panamerican/" local="130696231000000000" remote="130696231000000000" Dst="1" />
+<file name="errorController.php" server="C:/wamp/www/panamerican/" local="130248579060000000" remote="130248579060000000" Dst="1" />
+<file name="reportePagosCuotaInicialController.php" server="C:/wamp/www/panamerican/" local="130744604160000000" remote="130744604160000000" Dst="1" />
+<file name="reporteNotaTraspasoController.php" server="C:/wamp/www/panamerican/" local="130299456200000000" remote="130299456200000000" Dst="1" />
+<file name="reportePagosCuotasInicialesController.php" server="C:/wamp/www/panamerican/" local="130720625290000000" remote="130720625290000000" Dst="1" />
+</dwsync>
